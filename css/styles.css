@@ -1,0 +1,7 @@
+.column{
+  float:left;
+  width: 300px;
+  padding: 50px;
+  border: green dashed 4px;
+  margin: 20px;
+}
